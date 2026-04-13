@@ -1,3 +1,6 @@
+
+<img width="2000" height="600" alt="Black Minimalist Linkedin Banner (1)" src="https://github.com/user-attachments/assets/33e8a9b8-cd3d-4d7c-af87-46459fb8395a" />
+
 <div align="center">
 
 <!-- Dynamic Typing Header -->
