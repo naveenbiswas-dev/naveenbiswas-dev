@@ -1,5 +1,6 @@
-
 <img width="2000" height="600" alt="Black Minimalist Linkedin Banner (1)" src="https://github.com/user-attachments/assets/33e8a9b8-cd3d-4d7c-af87-46459fb8395a" />
+
+
 
 <div align="center">
 
@@ -122,24 +123,6 @@ Bytecode Agency · Frontend Developer        Sep 2022 – Jan 2026
     ├── Data visualisation components for complex analytical results
     └── REST API integration for large dataset fetch, display, and filtering
 ```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=naveenbiswas-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenbiswas-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenbiswas-dev&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
 
 ## 🤝 Let's Connect
 
